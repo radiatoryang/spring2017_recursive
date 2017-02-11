@@ -1,0 +1,5 @@
+week02_introToUnity/Library/
+week03_introToCode/Library/
+*.csproj
+*.sln
+*.userprefs

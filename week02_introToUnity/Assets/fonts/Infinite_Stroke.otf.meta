@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d5fb28f0ded4d76438bb8e7d2ab8a4d6
+timeCreated: 1486163201
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Infinite Stroke
+  fontNames:
+  - Infinite Stroke
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ac3a16e8f2ab3a74b88692f73b46887d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
